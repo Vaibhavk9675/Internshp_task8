@@ -1,9 +1,5 @@
-# rule_based_chatbot.py
+def chatbot_response(user_input)
 
-def chatbot_response(user_input):
-    """
-    Returns a chatbot response based on simple keyword rules.
-    """
     user_input = user_input.lower()
 
     # Rules: keyword-based matching
